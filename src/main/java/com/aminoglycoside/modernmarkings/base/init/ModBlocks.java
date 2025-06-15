@@ -45,6 +45,14 @@ public class ModBlocks {
     public static final Block FLOOR_MARKING_YELLOW_SQUARE = new MarkingFloor("floor_marking_yellow_square");
     public static final Block FLOOR_MARKING_YELLOW_STRIPES = new MarkingFloor("floor_marking_yellow_stripes");
 
+    public static final Block FLOOR_MARKING_BLACK_CORNER = new MarkingFloor("floor_marking_black_corner");
+    public static final Block FLOOR_MARKING_BLUE_CORNER = new MarkingFloor("floor_marking_blue_corner");
+    public static final Block FLOOR_MARKING_GREEN_CORNER = new MarkingFloor("floor_marking_green_corner");
+    public static final Block FLOOR_MARKING_ORANGE_CORNER = new MarkingFloor("floor_marking_orange_corner");
+    public static final Block FLOOR_MARKING_WHITE_CORNER = new MarkingFloor("floor_marking_white_corner");
+    public static final Block FLOOR_MARKING_YELLOW_CORNER = new MarkingFloor("floor_marking_yellow_corner");
+    public static final Block FLOOR_MARKING_RED_CORNER = new MarkingFloor("floor_marking_red_corner");
+
     public static final Block WALL_MARKING_NUMBER_0 = new MarkingWall("wall_marking_number_0");
     public static final Block WALL_MARKING_NUMBER_1 = new MarkingWall("wall_marking_number_1");
     public static final Block WALL_MARKING_NUMBER_2 = new MarkingWall("wall_marking_number_2");
@@ -60,6 +68,10 @@ public class ModBlocks {
     public static final Block WALL_MARKING_NUMBER_DASH = new MarkingWall("wall_marking_number_dash");
     public static final Block WALL_MARKING_NUMBER_COMMA = new MarkingWall("wall_marking_number_comma");
     public static final Block WALL_MARKING_NUMBER_PERIOD = new MarkingWall("wall_marking_number_period");
+
+    public static final Block WALL_MARKING_HAZARD_DIAMOND = new MarkingWall("wall_marking_hazard_diamond");
+    public static final Block WALL_MARKING_EXCLAMATION_MARK = new MarkingWall("wall_marking_exclamation_mark");
+    public static final Block WALL_MARKING_QUESTION_MARK = new MarkingWall("wall_marking_question_mark");
 
     public static final Block WALL_MARKING_SYMBOL_CHEMICAL = new MarkingWall("wall_marking_symbol_chemical");
     public static final Block WALL_MARKING_SYMBOL_ELECTRIC = new MarkingWall("wall_marking_symbol_electric");
@@ -80,6 +92,24 @@ public class ModBlocks {
     public static final Block WALL_MARKING_EXIT = new MarkingWall("wall_marking_exit");
     public static final Block WALL_MARKING_HAZARDLINE_LEFT = new MarkingWall("wall_marking_hazardline_left");
     public static final Block WALL_MARKING_HAZARDLINE_RIGHT = new MarkingWall("wall_marking_hazardline_right");
+
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_CHEMICAL = new MarkingWall("wall_marking_symbol_yellow_chemical");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_ELECTRIC = new MarkingWall("wall_marking_symbol_yellow_electric");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_FIRE = new MarkingWall("wall_marking_symbol_yellow_fire");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_FLUID = new MarkingWall("wall_marking_symbol_yellow_fluid");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_FROST = new MarkingWall("wall_marking_symbol_yellow_frost");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_GEARS = new MarkingWall("wall_marking_symbol_yellow_gears");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_LASER = new MarkingWall("wall_marking_symbol_yellow_laser");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_MAGIC = new MarkingWall("wall_marking_symbol_yellow_magic");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_MOB = new MarkingWall("wall_marking_symbol_yellow_mob");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_PINCH = new MarkingWall("wall_marking_symbol_yellow_pinch");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_PRODUCTION = new MarkingWall("wall_marking_symbol_yellow_production");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_RADIATION = new MarkingWall("wall_marking_symbol_yellow_radiation");
+    public static final Block WALL_MARKING_SYMBOL_YELLOW_STORAGE = new MarkingWall("wall_marking_symbol_yellow_storage");
+
+    public static final Block WALL_MARKING_SYMBOL_JEO = new MarkingWall("wall_marking_symbol_jeo");
+    //best modded minecraft podcast ever
+    //davey
 
     public static final Block WALL_MARKING_VOLTAGE_EU = new MarkingWall("wall_marking_voltage_eu");
     public static final Block WALL_MARKING_VOLTAGE_EV = new MarkingWall("wall_marking_voltage_ev");

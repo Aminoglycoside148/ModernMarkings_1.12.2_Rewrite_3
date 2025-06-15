@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W  ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "item": "ags_modernmarkings:wall_marking_question_mark"
+    }
+  },
+  "result": {
+    "item": "ags_modernmarkings:wall_marking_exclamation_mark",
+    "count": 1
+  }
+}

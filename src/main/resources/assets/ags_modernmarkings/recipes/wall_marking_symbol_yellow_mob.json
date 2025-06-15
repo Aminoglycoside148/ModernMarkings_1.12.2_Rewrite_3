@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WDW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "ags_modernmarkings:wall_marking_symbol_mob"
+    },
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "dyeYellow"
+    }
+  },
+  "result": {
+    "item": "ags_modernmarkings:wall_marking_symbol_yellow_mob",
+    "count": 8
+  }
+}
