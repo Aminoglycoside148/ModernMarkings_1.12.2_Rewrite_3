@@ -35,7 +35,7 @@ tile.floor_marking_noentry.name=No Entry Floor Marking
 tile.floor_marking_redx.name=Red X Floor Marking
 
 tile.floor_marking_danger_red.name=Red Danger Floor Marking
-tile.floor_marking_danger_yellow.name=yellow Danger Floor Marking
+tile.floor_marking_danger_yellow.name=Yellow Danger Floor Marking
 tile.floor_marking_white_lane_cross.name=White Lane Cross Floor Marking
 tile.floor_marking_yellow_lane.name=Yellow Lane Floor Marking
 tile.floor_marking_exit.name=Exit Floor Marking
@@ -51,11 +51,11 @@ tile.wall_marking_number_6.name=6 Wall Marking
 tile.wall_marking_number_7.name=7 Wall Marking
 tile.wall_marking_number_8.name=8 Wall Marking
 tile.wall_marking_number_9.name=9 Wall Marking
-tile.wall_marking_number_no.name=no. Wall Marking
+tile.wall_marking_number_no.name=No. Wall Marking
 tile.wall_marking_number_numero.name=Numero Wall Marking
 tile.wall_marking_number_dash.name=- Wall Marking
 tile.wall_marking_number_comma.name=Comma Wall Marking
-tile.wall_marking_number_period.name=period Wall Marking
+tile.wall_marking_number_period.name=Period Wall Marking
 
 tile.wall_marking_hazard_diamond.name=Hazard Diamond Wall Marking
 tile.wall_marking_exclamation_mark.name=Exclamation Mark Wall Marking
@@ -63,8 +63,8 @@ tile.wall_marking_question_mark.name=Question Mark Wall Marking
 
 tile.wall_marking_arrowleft.name=Arrow Left Wall Marking
 tile.wall_marking_arrowright.name=Arrow Right Wall Marking
-tile.wall_marking_hazardline_right.name=Hazardline right corner Wall Marking
-tile.wall_marking_hazardline_left.name=Hazardline left corner Marking
+tile.wall_marking_hazardline_right.name=Hazardline Right Corner Wall Marking
+tile.wall_marking_hazardline_left.name=Hazardline Left Corner Marking
 tile.wall_marking_warning_danger.name=Warning Wall Marking
 tile.wall_marking_exit.name=Exit Wall Marking
 tile.wall_marking_symbol_production.name=Production Wall Symbol
