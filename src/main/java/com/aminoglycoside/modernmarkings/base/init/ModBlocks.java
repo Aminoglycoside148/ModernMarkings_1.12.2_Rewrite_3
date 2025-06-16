@@ -109,7 +109,6 @@ public class ModBlocks {
 
     public static final Block WALL_MARKING_SYMBOL_JEO = new MarkingWall("wall_marking_symbol_jeo");
     //best modded minecraft podcast ever
-    //davey
 
     public static final Block WALL_MARKING_VOLTAGE_ULV = new MarkingWall("wall_marking_voltage_ulv");
     public static final Block WALL_MARKING_VOLTAGE_STEAM = new MarkingWall("wall_marking_voltage_steam");
