@@ -111,6 +111,8 @@ public class ModBlocks {
     //best modded minecraft podcast ever
     //davey
 
+    public static final Block WALL_MARKING_VOLTAGE_ULV = new MarkingWall("wall_marking_voltage_ulv");
+    public static final Block WALL_MARKING_VOLTAGE_STEAM = new MarkingWall("wall_marking_voltage_steam");
     public static final Block WALL_MARKING_VOLTAGE_EU = new MarkingWall("wall_marking_voltage_eu");
     public static final Block WALL_MARKING_VOLTAGE_EV = new MarkingWall("wall_marking_voltage_ev");
     public static final Block WALL_MARKING_VOLTAGE_FE = new MarkingWall("wall_marking_voltage_fe");

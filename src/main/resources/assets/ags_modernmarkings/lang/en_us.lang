@@ -98,6 +98,8 @@ tile.wall_marking_symbol_yellow_pinch.name=Pinch Point Wall Symbol
 
 tile.wall_marking_symbol_jeo.name=Just Enough Opinions Podcast Symbol(product placement!)
 
+tile.wall_marking_voltage_ulv.name=ULV Voltage Wall Symbol
+tile.wall_marking_voltage_steam.name=Steam Tier Wall Symbol
 tile.wall_marking_voltage_lv.name=Low Voltage Wall Symbol
 tile.wall_marking_voltage_mv.name=Medium Voltage Wall Symbol
 tile.wall_marking_voltage_hv.name=High Voltage Wall Symbol
