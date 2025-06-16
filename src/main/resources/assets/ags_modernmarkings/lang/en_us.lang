@@ -67,6 +67,7 @@ tile.wall_marking_hazardline_right.name=Hazardline Right Corner Wall Marking
 tile.wall_marking_hazardline_left.name=Hazardline Left Corner Marking
 tile.wall_marking_warning_danger.name=Warning Wall Marking
 tile.wall_marking_exit.name=Exit Wall Marking
+
 tile.wall_marking_symbol_production.name=Production Wall Symbol
 tile.wall_marking_symbol_radiation.name=Radiation Wall Symbol
 tile.wall_marking_symbol_pinch.name=Pinch Point Wall Symbol
@@ -81,15 +82,19 @@ tile.wall_marking_symbol_laser.name=Laser Wall Symbol
 tile.wall_marking_symbol_fluid.name=Fluid Wall Symbol
 tile.wall_marking_symbol_mob.name=Mob Wall Symbol
 
+tile.wall_marking_symbol_yellow_production.name=Production Wall Symbol
+tile.wall_marking_symbol_yellow_radiation.name=Radiation Wall Symbol
 tile.wall_marking_symbol_yellow_chemical.name=Yellow Chemical Wall Symbol
 tile.wall_marking_symbol_yellow_electric.name=Yellow Electric Wall Symbol
 tile.wall_marking_symbol_yellow_storage.name=Yellow Storage Wall Symbol
 tile.wall_marking_symbol_yellow_fire.name=Yellow Fire Wall Symbol
+tile.wall_marking_symbol_yellow_frost.name=Yellow Frost Wall Symbol
 tile.wall_marking_symbol_yellow_magic.name=Yellow Magic Wall Symbol
 tile.wall_marking_symbol_yellow_gears.name=Yellow Gears Wall Symbol
 tile.wall_marking_symbol_yellow_laser.name=Yellow Laser Wall Symbol
 tile.wall_marking_symbol_yellow_fluid.name=Yellow Fluid Wall Symbol
 tile.wall_marking_symbol_yellow_mob.name=Yellow Mob Wall Symbol
+tile.wall_marking_symbol_yellow_pinch.name=Pinch Point Wall Symbol
 
 tile.wall_marking_symbol_jeo.name=Just Enough Opinions Podcast Symbol(product placement!)
 
